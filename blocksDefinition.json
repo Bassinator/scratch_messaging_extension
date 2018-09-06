@@ -1,0 +1,27 @@
+{
+  "extensionName": "Remote Messages (mqtt)",
+  "extensionPort": 1880,
+  "blockSpecs": [
+    [
+      " ",
+      "sende Nachricht %s",
+      "sent",
+      "Nachricht"
+    ],
+    [
+      " ",
+      "nächste Nachricht",
+      "next"
+    ],
+    [
+      "r",
+      "message",
+      "message"
+    ],
+    [
+      "r",
+      "messageId",
+      "messageId"
+    ]
+  ]
+}
